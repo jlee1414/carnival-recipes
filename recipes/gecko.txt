@@ -1,7 +1,6 @@
 Audrey's Meatloaf
 --------------
 Servings: 8
-<<<<<<< HEAD
 Time: 1 hour
 
 Directions:
@@ -14,7 +13,6 @@ Directions:
 2. Pour milk over the bread slices. Allow it to soak in for several minutes.
 7. Lay bacon slices over the top, tucking them underneath the meatloaf.
 11. Slice and serve with remaining sauce. Serve with mashed potatoes. Yummy!
-=======
 
 1 cup Whole Milk
 1-1/2 cup Ketchup
@@ -36,4 +34,3 @@ Freshly Ground Black Pepper
 
 
 
->>>>>>> a6319d4dd66edd92d347c9cfba68ca39f7e8225e
